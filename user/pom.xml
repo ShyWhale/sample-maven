@@ -23,7 +23,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>user</id>
       <name>Repository</name>
-      <url>https://github.com/ShyWhale/sample-maven.git</url>
+      <url>https://github.com/ShyWhale/sample-maven</url>
       <layout>default</layout>
     </repository>
 </distributionManagement>
